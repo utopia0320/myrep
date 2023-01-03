@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-
+   <h2>마지막 멤버를 추가</h2>
 </body>
 </html>
